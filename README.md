@@ -34,20 +34,7 @@ python dataset_manager.py --download vitaldb
 - **Use Cases**: Hypoxia detection, OSA research, pulse oximetry validation
 - **Download Time**: ~10-15 minutes
 
-### 2. VitalDB - Multi-Parameter Vital Signs (95.4 GB)
-- **Focus**: Comprehensive vital signs including SpO2 from surgical patients
-- **Subjects**: 6,388 patients
-- **Key Data**: 486,451 waveform/numeric tracks, high-resolution SpO2
-- **Use Cases**: Clinical hypoxemia detection, machine learning algorithms
-- **Download Time**: Several hours
-
-### 3. Temporal Respiratory Support (18 GB)
-- **Focus**: Long-term ICU respiratory data with oxygen requirements
-- **Subjects**: 50,920 patients
-- **Key Data**: FiO2, SpO2 trends, respiratory support over 90 days
-- **Use Cases**: Hypoxia recovery patterns, altitude acclimatization simulation
-- **Download Time**: ~2-4 hours
-
+or use similar datasets similar to the one mentioned above having vitals such Spo2 
 ---
 
 ## 📁 Folder Structure
